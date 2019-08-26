@@ -20,3 +20,7 @@ Caso de Uso
 Diagrama de Classe
 
 ![](imagens/02.png)
+
+Diagrama de Sequência
+
+![](imagens/03.png)
