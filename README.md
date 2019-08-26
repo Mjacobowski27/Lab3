@@ -14,3 +14,5 @@ Projeto com funções simples para entender o funcionamento da leitura e gravaç
 ## Documentação
 
 Caso de Uso
+
+![](01.png)
