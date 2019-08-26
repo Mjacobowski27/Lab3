@@ -27,22 +27,26 @@ Diagrama de Sequência
 
 #Telas do programa
 
+##Menu
+
+![](imagens/Menu.png)
+
 ##Contatos
 
-![](imagens/04.png)
+![](imagens/Contatos.png)
 
 ##Buscar
 
-![](imagens/05.png)
+![](imagens/Buscar.png)
 
 ##Adicionar
 
-![](imagens/06.png)
+![](imagens/Adicionar.png)
 
 ##Editar
 
-![](imagens/07.png)
+![](imagens/Editar.png)
 
 ##Excluir
 
-![](imagens/08.png)
+![](imagens/Excluir.png)
