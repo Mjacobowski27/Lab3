@@ -16,3 +16,7 @@ Projeto com funções simples para entender o funcionamento da leitura e gravaç
 Caso de Uso
 
 ![](imagens/01.png)
+
+Diagrama de Classe
+
+![](imagens/02.png)
